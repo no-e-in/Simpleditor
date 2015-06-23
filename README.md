@@ -1,2 +1,2 @@
 # Simpleditor
-A simple editor in Rebol3 ( Atronix)
+A simple editor in Rebol3 (Atronix)
